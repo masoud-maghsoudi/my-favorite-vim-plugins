@@ -23,4 +23,6 @@ Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'morhetz/gruvbox'
 call plug#end()
 
-colorscheme dracula
+colorscheme dracula " Define default colorscheme
+
+let g:airline_extensions = [ 'branch', 'tabline' , 'whitespace' ] " Enable some usefull airline Extentions
