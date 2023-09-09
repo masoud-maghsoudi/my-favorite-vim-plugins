@@ -11,6 +11,7 @@ call plug#begin()
 Plug 'tpope/vim-sensible'
 Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 Plug 'python-mode/python-mode'
+Plug 'jiangmiao/auto-pairs'
 Plug 'pearofducks/ansible-vim'
 Plug 'hashivim/vim-terraform'
 Plug 'vim-airline/vim-airline'

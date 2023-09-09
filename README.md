@@ -10,6 +10,8 @@ I have listed my favorite plugins for vim editor specified as below:
 
 [python-mode](https://github.com/python-mode/python-mode) - Python-mode is a Vim plugin that magically converts Vim into a Python IDE.
 
+[auto-pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
+
 [vim-ansible](https://github.com/pearofducks/ansible-vim) - This is a vim syntax plugin for Ansible 2.x, it supports YAML playbooks, Jinja2 templates, and Ansible's hosts files.
 
 [vim-terraform](https://github.com/hashivim/vim-terraform) - This plugin adds a `:Terraform` command that runs terraform, with tab completion
