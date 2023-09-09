@@ -12,7 +12,7 @@ I have listed my favorite plugins for vim editor specified as below:
 
 [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
 
-[vim-ansible](https://github.com/pearofducks/ansible-vim) - This is a vim syntax plugin for Ansible 2.x, it supports YAML playbooks, Jinja2 templates, and Ansible's hosts files.
+[ansible-vim](https://github.com/pearofducks/ansible-vim) - This is a vim syntax plugin for Ansible 2.x, it supports YAML playbooks, Jinja2 templates, and Ansible's hosts files.
 
 [vim-terraform](https://github.com/hashivim/vim-terraform) - This plugin adds a `:Terraform` command that runs terraform, with tab completion
 of subcommands.
@@ -23,7 +23,11 @@ files to be highlighted as HCL and `*.tfstate` as JSON.
 
 [vim-airline-theme](https://github.com/vim-airline/vim-airline-themes) - fficial theme repository for [vim-airline](https://github.com/vim-airline/vim-airline).
 
-[iceberg.vim](https://github.com/cocopon/iceberg.vim) - Iceberg is well-designed, bluish color scheme for Vim and Neovim.
+[powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications.
+
+[awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) - Collection of awesome color schemes for Neo/vim, merged for quick use.
+
+[dracula/vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim.
 
 [gruvbox](https://github.com/morhetz/gruvbox) - gruvbox is heavily inspired by [badwolf](https://github.com/sjl/badwolf), [jellybeans](https://github.com/nanotech/jellybeans.vim) and [solarized](https://github.com/altercation/solarized).
 
